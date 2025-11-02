@@ -32,3 +32,4 @@ target/
 
 # Operating System files
 .DS_Store
+/.idea/
